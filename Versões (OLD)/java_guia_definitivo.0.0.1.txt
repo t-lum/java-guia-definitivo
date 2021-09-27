@@ -1,0 +1,920 @@
+╔═══════════════════════════════════════════════════════════════════════════════════════════╗
+╠═══════╗
+╠═══════╬═══════════  Java
+╠═══════╝
+║
+╠═══════════════════════════════════════════════════════════════════════════════════════════╣
+║
+╠════════════  "Paleta"
+║
+╚═══════════════════════════════════════════════════════════════════════════════════════════╝
+
+
+Fontes: 
+
+* Arrows e outros caracteres:
+
+https://www.alt-codes.net/arrow_alt_codes.php
+
+
+* Box Drawing (Entre outros):
+
+https://jrgraphix.net/r/Unicode/2500-257
+
+
+//	Comumente usados
+
+→ ↑ ↓ ↪
+
+╔ ╗ ╚ ╝ ═ 
+
+╔═══╗
+║   ║ ╔╗
+╚═══╝ ╚╝
+
+╦ ╩ ╠ ╣ ╬
+
+
+
+╔═══════════════════════════════════════════════════════════════════════════════════════════╗
+║
+╠════════════  Indice  (_index_)
+║
+╚═══════════════════════════════════════════════════════════════════════════════════════════╝
+
+
+↪ 0. Indice  (_index_)
+
+
+
+↪ 1. Fontes  (_fontes_)
+
+↪ 2. Introdução  (_introdução_)
+
+↪ 3. Conceitos de programação  (_programação_)
+
+↪ 4. Setup  (_setup_)
+
+↪ 5. Fundamentos basicos  (_basicos_)
+
+
+
+↪ X. Atualizações sobre o guia  (_att_)
+
+
+
+╔═══════════════════════════════════════════════════════════════════════════════════════════╗
+║
+╠════════════  1. Fontes  (_fontes_)
+║
+╚═══════════════════════════════════════════════════════════════════════════════════════════╝
+
+
+   Essa parte é dedicada para as fontes que eu usei para fazer esse guia, desde cursos, livros
+a video aulas do youtube ou meu próprio conhecimento geral em programação
+
+
+
+↪ Udemy:
+
+* Java 2020 COMPLETO: Do Zero ao Profissional + Projetos!
+
+(Author: Leonardo Moura Leitao, Cod3r Cursos Online)
+
+https://www.udemy.com/course/fundamentos-de-programacao-com-java/
+
+
+
+* Programação em Java 11 LTS do básico ao avançado
+
+(Author: Geek University)
+
+https://www.udemy.com/course/programacao-em-java-essencial/
+
+
+
+* Java COMPLETO 2020 Programação Orientada a Objetos +Projetos
+
+(Author: Nelio Alves)
+
+https://www.udemy.com/course/java-curso-completo/
+
+
+
+↪ Stack Overflow:
+
+* Qual a diferença entre linguagem compilada para linguagem interpretada?
+
+(Author: Maniero♦)
+
+https://pt.stackoverflow.com/questions/77070/qual-a-diferen%C3%A7a-entre-linguagem-compilada-para-linguagem-interpretada#:~:text=Primeiro%2C%20n%C3%A3o%20existe%20isso%20de,o%20c%C3%B3digo%20escrito%20naquela%20linguagem.
+
+
+
+* Java's Virtual Machine and CLR
+
+(Author: benjismith)
+
+https://stackoverflow.com/questions/453610/javas-virtual-machine-and-clr
+
+
+
+//
+// Ainda pretendo comprar (Não fazem parte do guia até o momento)
+//
+
+* Oracle Certified Associate (OCA) Java 8
+
+(Author: LUIS Eufrasio Teixeira NETO)
+
+https://www.udemy.com/course/oracle-certified-associate-oca-java-8/
+
+
+
+* Metodologia de Certificação Java 8 OCA: Simulados
+
+(Author: Marcos Rachid)
+
+https://www.udemy.com/course/metodologia-de-certificacao-java-8-oca-simulados/
+
+
+
+↪ Livros
+
+//
+// Ainda pretendo comprar (Não fazem parte do guia até o momento)
+//
+
+* Use a Cabeça!: Java
+
+(Author: Bert Bates)
+
+Preço: R$ 172
+
+https://www.amazon.com.br/Use-cabe%C3%A7a-Java-Bert-Bates/dp/8576081733/ref=sr_1_5?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=java&qid=1607348149&sr=8-5
+
+
+
+* Java: The Complete Reference, Eleventh Edition 
+
+(Author: Herbert Schildt)
+
+(Inglês)
+
+Preço: R$ 275
+
+https://www.amazon.com.br/Java-Complete-Reference-Herbert-Schildt/dp/1260440230/ref=sr_1_3?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=java&qid=1607348149&sr=8-3
+
+
+
+* OCA / OCP Java SE 8 Programmer Certification Kit: Exam 1Z0-808 and Exam 1Z0-809
+
+(Author: Jeanne Boyarsky)
+
+(Inglês)
+
+Preço: R$ 390
+
+https://www.amazon.com.br/OCA-OCP-Java-Programmer-Certification/dp/1119272092/ref=sr_1_7?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=OCJP&qid=1607348294&sr=8-7
+
+
+
+//
+// Olhei Parcialmente
+//
+
+↪ Na net (videos, blogs, websites e artigos)
+
+Java </>
+
+(DevMedia)
+
+(Website)
+
+https://www.devmedia.com.br/java/
+
+
+
+C++
+
+(Wikipedia)
+
+(Website)
+
+https://pt.wikipedia.org/wiki/C%2B%2B
+
+
+
+//
+// Ainda não dei uma olhada (Não fazem parte do guia até o momento)
+//
+
+FinalException
+
+(Author: Rafael A P Nascimento)
+
+(Website)
+
+https://finalexception.blogspot.com/
+
+
+
+╔═══════════════════════════════════════════════════════════════════════════════════════════╗
+║
+╠════════════  2. Introdução  (_introdução_)
+║
+╚═══════════════════════════════════════════════════════════════════════════════════════════╝
+
+
+//
+//	//	Um pouco sobre mim
+//
+
+
+   Primeiramente sou um programador C#. Me interessei pela linguagem para poder fazer
+modificações de um jogos que "já foi" um dos meus favoritos. Cursei Senai de informática,
+onde tive acesso a livros de C# que aprofundou meu apego com essa linguagem, mesmo sendo um
+conteúdo que não estava relacionado ao curso (estudavamos Java).
+
+   Estudei as 2 linguagens, obviamente dando mais atenção a minha favorita e estudando Java
+o minimo possivel para poder passar nas atividades e testes sem ser reprovado. Hoje tenho
+uma visão bem diferente sobre programação e principalmente sobre Java.
+
+
+↪ Por que deste guia?
+
+   Bem isso vem de mim um pouco, há um tempo eu perdi um pouco meu preconceito sobre varios
+assuntos e temas. Consegui jogar jogos que antes não jogaria, aceitar opiniões que antes
+pareciam duvidosas, conversar com gente que nunca me imaginaria conversar. E é claro que eu
+acabaria estudando Java com outros olhos.
+
+   Confesso que um pouco do motivo de estudar vem da empresa que trabalho agora. Consegui
+ser aceito pelas minhas habilidades de C#, alias tenho certifacação (Microsoft 70-483 - 
+Programming in C#), e me deparei com a mesma situação do meu entrevistador, a demanda da
+empresa ser Java.
+
+   Já havia um tempo em que gostaria de ser um verdadeiro "poliglota" da programação, tanto
+que escolhi algumas linguagens para ter no meu curriculo antes da minha jornada de ser
+escritor (C#, C++, Java, Python, Javascript, Python). E agora com essa demanda, quero MESMO
+estudar Java e ser bom nisso. Atender a demanda e também ser um guia para eventuais problemas
+que podem surgir sobre essa poderosa tecnologia e por isso que escrevo esse guia.
+
+   Antes de qualquer coisa, sim esse guia tem a finalidade de tentar ensinar Java, mas o
+verdadeiro motivo dele é que eu ainda estou estudando essa ferramenta, e pra mim a maior
+prova que aprendi algo é conseguir explicar e fazer outra pessoa entender, por isso mesmo
+eu sabendo conteudos basicos farei um forte estudo didatico para explicar como se o leitor
+fosse leigo sobre assunto, porque eu sei algo tão facil que é o basico tem que ser facil de
+explicar também certo?
+
+   Obs: o bom de fazer isso de algoritmo agora e basicos da programção é que em futuros guias
+não preciso perder tempo revendo essa didatica.
+
+
+
+//
+//	//	Java
+//
+
+
+↪ O que é o Java?
+
+   Java é uma de varias linguagens de programação disponiveis no mercado, com o destaque de
+ser a mais usada ao redor do mundo, além de também ser uma plataforma. Mesmo assim existe
+muitas discussões e até polemicas sobre qual linguagem de programação usar (principamente
+por quem está começando na area), e no caso do Java por justamente ser uma linguagem até
+que antiga, há dúvidas se ela ainda é relevante ou se existe bons substitos para ela.
+
+
+   * Linguagem de programação: é um conjunto de sintaxes e semanticas, uma linguagem, onde
+são escritos algoritmos para executar tarefas, criar softwares e etc. Há varias formas de
+se escrever um código, varias linguagens com suas regras e epecificações, um bom exemplo é
+imaginar a escrita de um texto: pode ser escrito de varias formas e o escritor pode fazer
+em sua lingua de origem, inglês, português, frances e etc, sendo que o texto tem o mesmo
+sentido.
+
+
+   Falando um pouco sobre o Java, uma de suas premissas/destaques é não estar preso a um
+unico sistema operacional, varias tecnologias são feitas exclusivamente para Windows ou
+macOS, ou tem que ser reescrita em cada sistema operacional. O Java vem com uma ideia
+para que os codigos escritos sobre ele possam ser rodados exatamente da mesma forma
+em cada sistema operacional (sistema operacionais com o suporte a linguagem C++, no caso
+maiora ou quase todos relavantes), tendo esse feito atraves da "JVM".
+
+
+   * C++: originalmente chamado de "C com classes", é uma evolução da linguagem C (por isso 
+o ++), adicionando paradigmas de programação como orientação a objetos, programação
+funcional, entre outros. Praticamente uma evolução da linguagem antecessora.
+
+
+
+//
+//	//	JVM
+//
+
+
+   "Write once, Run anywhere", escreva uma vez, rode em qualquer lugar.
+
+
+   O que seria a JVM? JVM (Java Virtual Machine) é maquina virtual do java, o responsavel
+pelo bordão acima. O objetivo dos criadores do Java não era criar mais uma linguagem de
+programação, mas uma integração entra varios sistemas operacionais diferentes, como
+dispositivos e equipamentos. Então temos essa solução, a JVM, uma máquina virtual que pode
+converter os Bytecodes java para código de maquina executável daquele dispositivo (se tiver
+uma versão de JVM é claro).
+
+
+   Exemplo para entender melhor: imagine que cada sistema operacional ou dispositivo seja um
+represetante de um país diferente. O programador quer usar um discurso, exatamente o mesmo, para
+cada representante com a intenção de que eles entendam, para isso existe um "tradutor" que vai
+"traduzir" o que você disse para cada um deles.
+
+
+   Essa é lógica da JVM, uma maquina virtual que transforma Bytecodes em código daquela maquina
+
+
+   A ordem de passos feita pelo compilador:
+
+
+1) Codigo Fonte → Feito pelo programador
+
+2) Bytecode → codigo intermediario
+
+3) Maquina Virutal → JVM no caso de Java
+
+4) Sistema Operacional
+
+5) Hardware → maquina fisica
+
+
+   * Bytecode: O que é escrito no código fonte (feito pelo programador) é compilado para uma
+forma intermediaria, chamada Bytecode, que é interpretada pelas máquinas virtuais (JVMs).
+
+
+   * Compilador: é uma aplicação que converte código fonte para linguagem compilada, traduzindo
+uma linguagem mais compreensivel a humanos para uma linguagem mais compreensivel a maquinas.
+
+
+   Observação: é muito dificil escrever isso sem citar o CLR, que é praticamente a máquina
+virutal da .NET (C#, seu "concorrente"). Praticamente a mesma logica, todos os dispositivos tem
+uma versão de .NET, códigos C#, VB ou outro código .NET é compilado para CLR (Common Language
+Runtime) que é traduzido para código de maquina para esses dispositivos.
+
+
+
+//
+//	//	Alguns detalhes mais chatos sobre java
+//
+
+   ↪ Java foi lançado pela primeira vez em 1995 pela empresa Sun Microsystems
+
+
+   ↪ Seu criador se chama James Gosling
+
+
+   ↪ Sun Microsystems foi comprada pela Oracle por 7.4 bilhões de dolares
+
+
+   ↪ IBM tentou 2 semanas antes comprar por 9,4 mas as negociações fracassaram
+
+
+
+...
+
+
+
+╔═══════════════════════════════════════════════════════════════════════════════════════════╗
+║
+╠════════════  3. Conceitos de programação  (_programação_)
+║
+╚═══════════════════════════════════════════════════════════════════════════════════════════╝
+
+
+//
+//	//	Separando em tópicos
+//
+
+
+   Da para dividir a programação em dois topicos muito importantes, a programação nos
+fundamentos e a programação no sentido comercial. Nos fundamentos entendemos a fundo como
+funciona a linguagem e a propria programação em si, metodologias, processos e etc, enquanto no
+sentido comercial temos visão com o porque do uso, como usar o que foi aprendido na vida, 
+trabalho e faculdade, assim descobrindo bibliotecas e plataformas para auxiliar o
+desenvolvimento.
+
+
+↪ Fundamentos
+
+  ↪ Logica de Programação
+
+    ↪ Estrutura de Dados
+
+
+    ↪ Programação Orientada a Objetos (POO/OOP)
+
+
+  ↪ Banco de Dados
+
+
+  ↪ Analise & Design de Sistemas
+
+
+↪ Comercial
+
+  ↪ Back end
+
+
+  ↪ Web
+
+
+  ↪ Mobile
+
+
+  ↪ Desktop
+
+
+
+//
+//	//	O que é algoritmo?
+//
+
+
+   Sequencia de ações executaveis finitas (que tem fim) para resolver um problema, Exemplo:
+
+1) Andar até a casa
+
+2) Abrir a porta
+
+3) Entrar
+
+4) Fechar a porta
+
+
+   Softwares funcionam em algoritmos, assim como em sistemas operacionais.
+
+
+   Os codigos fontes que vão ser escritos durante o guia tambem são algoritmos.
+
+
+
+//
+//	//	Compilação vs Interpretação
+//
+
+
+   Além do que foi explicado de linguagem intermediaria (compilação) existe a interpretação,
+algums linguagens tem o seu design para ser comumente interpretadas ao inves de compiladas.
+
+
+   Qual a diferença? A compilação gera um arquivo de linguagem intermediaria enquanto o
+interpretador precisa apenas interpretar o que ja foi escrito no codigo fonte. Olhando desse
+ponto um parece melhor que o outro mas as 2 formas possuem vantagens e desvantagens.
+
+
+↪ Compilação
+
+  ↪ O que é: a leitura e tradução do codigo fonte para gerar um codigo intermediario a ser
+executado por uma maquina virtual.
+
+
+  ↪ Vantagens:
+
+    ↪ velocidade da aplicação, já que não precisa ficar interpretando toda vez que é executado,
+é só utilizar o codigo intermediario já traduzido.
+
+
+    ↪ Auxilio do compilador, como o codigo é todo lido para ser traduzido, já é possivel
+indentificar erros antes de sua execução.
+
+
+↪ Intepretação
+
+  ↪ O que é: o código é interpretado sem a necessidade de gerar um arquivo de codigo
+intermediario.
+
+
+  ↪ Vantagens:
+
+    ↪ flexibilidade de manutenção, já que possui menos arquivos no total e precise de apenas
+modificar ao inves de modificar e compilar para gerar o arquivo compilado modificado.
+
+
+    ↪ Recompilação, não precisa ser recompilado para cada plataforma que o consegue interpretar,
+já que é póssivel a sua leitura.
+
+
+
+//
+//	//	IDE
+//
+
+
+  O que é IDE?
+
+
+   IDE (Ambiente de Desenvolvimento Integrado, Integrated Development Environment) é uma aplicação
+que reune varias ferramentas e caracteristicas para ajudar no desenvolvimento de outras aplicações.
+
+
+  Resumindo: um software para fazer software.
+
+
+   IDE não é nada mais do que um aplicativo com principalmente um editor de texto e um compilador,
+mais algumas ferramentas para facilitar o trabalho do programador. Existe discussões sobre usar ou
+não, a esmagante maioria usa, mas é sempre importante entender o não uso e o uso já que é
+facilitado demais e as vezes faz esquecer como as coisas realmente funcionam.
+
+
+   Sem IDE o programdor tem que usar um editor de texto (até bloco de notas), compilar pelo 
+CMD/Terminal e gerenciar seus arquivos em uma pasta com sua propria organização, o que não é muito
+agradavel a novos desenvolvedores.
+
+
+
+...
+
+
+
+╔═══════════════════════════════════════════════════════════════════════════════════════════╗
+║
+╠════════════  4. Setup  (_setup_)
+║
+╚═══════════════════════════════════════════════════════════════════════════════════════════╝
+
+
+//
+//	//	JDK vs JRE
+//
+
+
+   Antes de instalar temos que entender o historico e versões do java.
+
+
+   Na verdade é bem simples:
+
+
+
+↪ JDK
+
+  ↪ Java Development Kit, Kit de Desenvolvimento Java
+
+
+  ↪ É um pacote de ferramentas, sendo necessario para o desenvolvimento de aplicativos java
+
+
+↪ JRE
+
+  ↪ Java Runtime Environment, Ambiente de Tempo de Execução Java
+
+
+  ↪ É um plug-in necessario para poder executar programas Java, sendo menor que a JDK
+
+
+
+   Resumindo JRE é o minimo suficiente para que um usuario-cliente possa executar aplicações java,
+aqueles que eu e você já baixamos uma vez para executar um game ou software. Enquanto JDK é o
+pacote completo com uma series de ferramentas.
+
+
+   JRE possui a JVM, que já expliquei, e as bibliotecas de classes.
+
+
+   JDK possui JRE, tanto JVM quanto as bibliotecas, quanto outras ferramentas como compiladores,
+debuggers, documentações entre outros.
+
+
+
+//
+//	//	Java SE, ME, EE
+//
+
+
+   Outras diferenças que talvez não impactam muito no conhecimento durante o guia mas acho
+importante de saber são as edições.
+
+
+↪ Java SE
+
+  ↪ SE (Standard Edition) 
+
+
+  ↪ Principal, core, criação de aplicativos Desktop.
+
+
+
+↪ Java ME
+
+  ↪ ME (Micro Edition)
+
+
+  ↪ Edição especial voltado a dispositivos moveis e embarcados.
+
+
+
+↪ O Java EE
+
+  ↪ Java EE (Enterprise Edition) 
+
+
+  ↪ Foco no desenvolvimento WEB e suas especificações.
+
+
+
+//
+//	//	Versões LTS
+//
+
+
+   Tópico bem breve, mas algo bem importante, as versões de suporte a longo periodo (LTS, 
+Long-Term Support) que como o nome sugere possuem mais suporte da Oracle e tem menos instabilidade.
+
+
+   As novas features que são adicionadas ao java podem apresentar bugs então ficam nas versões mais
+recentes para quem quer testar enquanto existe a LTS, mais estavel, para empresas que querem manter
+seus negocios com um bom controle do que está acontecendo sem muitas mudanças nas versões.
+
+
+   Atualmente nesse dia que escrevo (09/04/21) a versão LTS atual é o java 11, mas um bom destaque
+é o java 8, que foi uma das versões LTS mais importantes da TI, tanto que empresas a utilizam até
+hoje.
+
+
+
+//
+//	//	Instalando Java JDK
+//
+
+
+   Então como de acordo com a explicação seguimos com o download do SE (que possui o JDK) 
+
+
+   https://www.oracle.com/java/technologies/javase-downloads.html
+
+
+   Recomendo a ultima versão LTS, no meu caso estou utilizando 15.0.1, hoje 09/04/21
+
+
+   Depois de selecionar a versão procure o donwload apropriado para seu sistema operacional, tambem
+há como escolher a forma de instalar o java na sua maquina pelo download sendo as opções baixar um
+arquivo zip ou instalador mesmo
+
+
+   Se optou pelo mais "facil" o instalador não tem muito que ensinar, só next, next e gg.
+
+
+   /// Windows
+
+   Por zip/rar, va em Disco Local (C:), arquivos de programas, descompacte o zip dentro da pasta
+Java (se não existir crie, não esqueça do J maiusculo), e configure as variaveis de ambiente:
+
+
+↪ Procure por Variaveis de ambiente (varia de versão do Windows)
+
+  ↪ Propriedades do Sistema, entre em variaveis de sistema
+
+
+  ↪ Note que há duas tabelas, uma de vars do usuario atual da maquina e a outra sendo do sistema
+
+
+  ↪ Na tabela de baixo, vars do sistema, clique em novo
+
+
+  ↪ Tela de nova variavel, o nomeie de JAVA_HOME (sem errar) e coloque o valor o caminho até o JDK lá
+nos arquivos de programa
+
+    ↪ Exemplo: C:\Program Files\Java\jdk-16
+
+
+  ↪ Depois de adicionado procure uma variavel chamado Path (ainda em vars de sistema) a selecione e
+clique em editar
+
+
+  ↪ Clique em novo (não esqueça, isso dentro da tela editar variavel que você selecionou Path) e
+coloca o caminho de novo porem agora com \bin no final
+
+    ↪ O meu ficou assim: C:\Program Files\Java\jdk-16\bin
+
+
+  ↪ (Opcional) Mova ele para cima até ficar no topo, isso evita de conflitar com outras versões javas
+já esse instalado vai ser requistado primeiro
+
+
+  ↪ De ok em tudo e pronto!
+
+
+  Verificando se foi instalado corretamente: abra o cmd e digite java -version
+
+
+/// No meu caso
+
+
+Microsoft Windows [versão 10.0.19041.867]
+(c) 2020 Microsoft Corporation. Todos os direitos reservados.
+
+C:\Users\sidgo>java -version
+java version "16" 2021-03-16
+Java(TM) SE Runtime Environment (build 16+36-2231)
+Java HotSpot(TM) 64-Bit Server VM (build 16+36-2231, mixed mode, sharing)
+
+C:\Users\sidgo>
+
+
+///
+
+
+
+//
+//	//	Executando a primeira "aplicação" Java
+//
+
+
+   prompt, javac e java
+
+https://www.tutorialspoint.com/what-is-the-difference-between-javac-java-commands
+
+
+
+//
+//	//	Instalando o VS Code
+//
+
+
+   O editor de codigo que vou usar vai ser o VS Code (Visual Studio Code), que por sua vez não
+é uma IDE. O comum mais usado para JAVA é IDE Eclipse que futuramente colocarei no guia.
+Enfim o download.
+
+
+   https://code.visualstudio.com/download
+
+
+   É um instalador padrão, baixe e execute, escolha a linguagem mais apropriada que eu
+fortemente recomendo ingles, aceitar os termos, escolher onde vai ser instalado o VS Code
+(recomendado não mexer)
+
+
+   E agora sim uma das partes mais importantes na instalação que é quando ele mostra uma serie
+de checkbox sobre algumas opções sobre adicionar a opção de abrir com VS Code, eu recomendo
+muito habilitar tudo para deixar o VS Code bem versatil em sua maquina (menos a de criar um
+atalho na area de trabalho, essa é bem opcional)
+
+
+
+//
+//	//	Configurando o VS Code para Java
+//
+
+
+   Existe a forma mais pratico que é relativamente nova e existe a forma mais classica que como
+era feito antes desse metodo novo. Vou mostrar os 2 mas o que estou usando agora é o mais
+"classico" que já que foi o que eu aprendi durante minha jornada.
+
+
+   Antes o mais pratico é bem simples, baixe o visual studio por esse link:
+
+
+   https://code.visualstudio.com/docs/languages/java
+
+
+   Ele ja vem pronto com todas as ferramentas pro desenvolvimento java (revizando aqui vi que
+ele também instala a JDK se a maquina não tiver)
+
+
+   A forma que eu usei for entrar nas extensões do VS Code e baixar o Java Extension Pack (copie vscjava.vscode-java-pack, ou se precisar do link marketplace https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-pack)
+
+
+
+.
+
+// Organização de uma aplicação java
+
+
+https://www.udemy.com/course/java-curso-completo/learn/lecture/10565850#overview
+
+
+ambientes de execução
+
+
+bibliotecas (API)
+
+
+java é orientado a objetos, classes
+
+
+package, pacote de classes relacionadas (agrupamento logico)
+
+
+module, agrupamento de packages
+
+
+aplicação = agrupamento de modulos relacionados
+
+
+exemplos
+
+financial (entities, services, repositories) classes
+
+
+graphics (2d, 3d, utilities) classes
+
+
+.
+
+
+
+╔═══════════════════════════════════════════════════════════════════════════════════════════╗
+║
+╠════════════  5. Fundamentos basicos  (_basicos_)
+║
+╚═══════════════════════════════════════════════════════════════════════════════════════════╝
+
+
+//
+//	//	Hello World, a primeira aplicação
+//
+
+
+  "Ola Mundo" O primeiro passo do programador. O Hello World se consiste no codigo mais simples
+para começar a entender como funciona um algoritmo. No final dessa aplicação vai apenas executar
+uma tela do prompt de comando com o texto "Hello World".
+
+
+  (Explicar o sysout, cmd, javac java)
+
+
+
+...
+
+
+
+╔═══════════════════════════════════════════════════════════════════════════════════════════╗
+║
+╠════════════  X. Atualizações sobre o guia  (_att_)
+║
+╚═══════════════════════════════════════════════════════════════════════════════════════════╝
+
+
+   Uma parte dedicada a updates sobre esse escrito aqui, o que eu editei, coloquei a mais
+e etc
+
+
+
+//
+//	//	Janeiro
+//
+
+↪ 21/01/21 → Começo do guia
+
+
+
+//
+//	//	Abril
+//
+
+↪ 08/04/21 → A volta do guia, vou ser realocado e habilidades de java são bem vindas, terminei
+introdução e comecei setup
+
+
+↪ 13/05/21 →
+
+
+
+...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+...

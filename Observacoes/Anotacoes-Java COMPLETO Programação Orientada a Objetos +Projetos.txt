@@ -1,0 +1,106 @@
+//
+//	//	Conceitos faltantes para rever (rush de pratica)
+//
+
+
+Aula:   https://www.udemy.com/course/java-curso-completo/learn/lecture/10420480#overview
+
+
+* 1:50
+
+Profissional Java
+
+
+
+Aula:   https://www.udemy.com/course/java-curso-completo/learn/lecture/16148799#overview
+
+
+
+Aula:   https://www.udemy.com/course/java-curso-completo/learn/lecture/16148803#overview
+
+
+
+Aula:   https://www.udemy.com/course/java-curso-completo/learn/lecture/16148811#overview
+
+
+
+Aula:   https://www.udemy.com/course/java-curso-completo/learn/lecture/16148817#overview
+
+
+
+Aula:   https://www.udemy.com/course/java-curso-completo/learn/lecture/21924158#overview
+
+
+
+Aula:   https://www.udemy.com/course/java-curso-completo/learn/lecture/16148875#overview
+
+
+
+Aula:   https://www.udemy.com/course/java-curso-completo/learn/lecture/10420716#overview
+
+
+
+Aula:   https://www.udemy.com/course/java-curso-completo/learn/lecture/10420730#overview
+
+
+
+Aula:   https://www.udemy.com/course/java-curso-completo/learn/lecture/10420730#overview
+
+
+
+Aula:   https://www.udemy.com/course/java-curso-completo/learn/lecture/10565854#overview
+
+
+
+Aula:   https://www.udemy.com/course/java-curso-completo/learn/lecture/16148901#overview
+
+
+
+Aula:   https://www.udemy.com/course/java-curso-completo/learn/lecture/10565856#overview
+
+
+
+Aula:   https://www.udemy.com/course/java-curso-completo/learn/lecture/10565880#overview
+
+
+
+Aula:   https://www.udemy.com/course/java-curso-completo/learn/lecture/10565860#overview
+
+
+
+Aula:   https://www.udemy.com/course/java-curso-completo/learn/lecture/16136195#overview
+
+
+
+
+
+
+
+...
+
+
+
+//
+//	//	Conceitos faltantes para rever (do que eu escrevi antes)
+//
+
+
+* java_guia_definitivo.0.1.4
+
+	↪ "Conceitos de programação"
+
+
+	↪ "Setup"
+
+
+	↪ "Fundamentos Básicos"
+
+
+
+...
+
+
+
+...
+
+

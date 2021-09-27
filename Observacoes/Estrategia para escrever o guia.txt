@@ -1,0 +1,101 @@
+* Aprendizado
+
+
+	/// Cursos
+
+
+	* Java COMPLETO Programação Orientada a Objetos +Projetos
+
+		* 50 horas
+
+
+	* Java 2021 COMPLETO: Do Zero ao Profissional + Projetos!
+
+		* 77 horas
+
+
+	* Programação em Java 11 LTS do básico ao avançado
+
+		* 33 horas
+
+
+	Total: 160h
+
+
+
+	/// Livros
+
+	* Use a cabeça!: Java
+
+		* 496 páginas
+
+
+	* Java: The Complete Reference, Eleventh Edition
+
+		* 1248 páginas
+
+
+	// Estrategia
+
+	Considerando 20h de materiais, estudo proprios e duvidas: 180
+
+	Fazendo 6h de estudo de dias de semana e fds sem estudo fica 36 horas semanais
+
+	ou seja um mes com 4 semanas resulta em 144 horas, quase completo o curso
+
+
+
+	*
+
+
+	8 horas de estudo, melhor não passar de disso em planos mas sim em pratica
+
+	1 mes fica 192
+
+
+	Nerdar 1 mes colocand 8h de fds fica 224
+
+
+	Resumindo: Cursos podem ser finalizados em 1 mes
+
+	
+
+
+
+* Preparatorio para certificação
+
+
+	/// Cursos
+
+
+	* Oracle Certified Associate (OCA) Java 8
+
+		* 8 horas
+
+
+	* Certificação Java OCAJP 8 (1Z0-808)
+
+		* 4 horas
+
+
+
+	/// Livros
+
+
+	* OCA/OCP Java SE 8 Programmer Certification Kit: Exam 1Z0-808 and Exam 1Z0-809
+
+		* 1152 páginas
+
+
+
+	/// Simulados
+
+
+	* Metodologia de Certificação Java 8 OCA: Simulados
+
+		* 5 simulados
+
+
+	* Metodologia de Certificação Java 8 OCP: Simulados
+
+		* 5 simulados
