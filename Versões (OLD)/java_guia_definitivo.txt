@@ -76,6 +76,45 @@ https://jrgraphix.net/r/Unicode/2500-257
 //
 
 
+	Acredito que o primeiro passo é falar um pouco de mim, isso é claro antes de se aprofundar
+no assunto ou ir direto na minha pessoa na parte profissional. Sobre mim posso dizer que gosto muito
+de jogar, estão praticamente na minha infância, adolescência e agora nessa fase de jovem adulto.
+Deve ter ficado um pouco obvio que foi esse gosto em particular que fez eu entrar no mundo da
+programação, e por incrivel que pareça nunca fui um desenvolvedor de jogos ou cheguei perto de um
+projeto desses.
+
+
+	Indo para o profissional, sou certificado como especialista na tecnologia C# (Exam 70-483:
+Programming in C#) pela própria Microsoft, tive experiências com estágio em uma start-up de 
+tecnologia, que possuia várias tecnologias e metodologias que me motivaram muito nessa jornada. Agora
+me encontro como analista de performance, um trabalho da TI um pouco distante dessa jornada e de devs
+especificamente, eu atuo executando testes e simulando cargas de usuarios em aplicações de clientes.
+
+
+	
+
+
+	.
+
+
+	.
+
+
+	.
+
+
+	.
+
+
+	.
+
+
+	.
+
+
+	.
+
+
 	Antes de tudo devo dizer que essencialmente sou um programador .NET (C#). Minha visão e
 principalmente minhas impressões da linguagem Java deve-se muito a esse fator. Desde meu primeiro
 contato com programação no Senai de informática eu era completamente apaixonado pela linguagem
