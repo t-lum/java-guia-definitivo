@@ -1,0 +1,43 @@
+* Estrutura Sequencial
+
+	Comentários.
+
+	Saída de dados.
+
+	Expressões aritméticas.
+
+	Variáveis.
+
+	Camel Case.
+
+	Entrada de dados.
+
+	Classe Math.
+
+
+* Estrutura Condicional
+
+	Expressões comparativas.
+
+	Operadores lógicos.
+
+	Expressões lógicas.
+
+	If-else (se e senão).
+
+	Switch-case (escolha e caso).
+
+	Expressão ternária.
+
+	Introdução a escopo.
+
+
+* Estrutura Repetitiva
+
+	Conceito de repetição (Looping).
+
+	While (enquanto).
+
+	For (para).
+
+	Do-while (faça e enquanto).

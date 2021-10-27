@@ -1,0 +1,218 @@
+java é uma linguagem orientada a objetos e a base de um programa é classe
+
+package é agrupamento ogico
+
+lógica de programação
+
+* Estrutura sequencial
+
+* Estrutura condicional
+
+* Estrutura repetitiva
+
+
+// estrutura sequencial
+
+comentarios
+
+escrita em console e primeiro app (hello world)
+
+conceito de strings e texto
+
+expressão que quando calculada retorna um valor
+
+(4 + 5 = 9)
+
+operadores aritmeticos (+, -, *, /, %)
+
+lembrar que maioria desses operadores tem a mesma logica em outras linguagens
+
+uso de parenteses,
+
+frizar em modulo %
+
+(14 % 3 = 2)
+
+(19 % 5 = 4)
+
+variaveis, como os dados são armazenados
+
+variavel é uma pequena porção da memória RAM
+
+declarar variavel
+
+tipo nome = valor inicial
+
+ponto flutuante
+
+variavel possui, nome (indentificador, tipo, valor, endereço)
+
+8 Tipos primitivos
+
+1 bit
+
+char e unicode
+
+boolean 1 bit
+
+operações com as variaveis
+
+Camel Case
+
+scanner, entrada de dados
+
+Scanner sc = new Scanner
+
+import java.util.Scanner
+
+sc.close() no final do app
+
+função para desalocar o scanner
+
+ao executar mostrar a espera por mensagem
+
+sc.next()
+
+nextInt()
+
+nextDouble()
+
+virgula na entrada, ponto na saida
+
+problema do next line (entradas de dados parte 2), limpar o buffer de leitura]
+
+classe Math, usar raiz e potencia
+
+operadores de atribuição composto ou acumulativo (+=)
+
+operador unário (++, --, - e + para sinal e ! diferente)
+
+
+// Estrutura condicional
+
+expressão comparativa
+
+5 > 10
+
+operacional comparativo
+
+exemplos
+
+expressão logicas
+
+operadores logicos
+
+e ou
+
+tabela de cada operador logico
+
+estrutura condicional
+
+é uma estrutura de controle, ou seja um controle para direcionar a aplicação, no caso com uma condição
+
+verdadeiro executa um bloco de comandos, falso executa outro bloco
+
+v: executa o bloco de comandos
+
+f: pula o bloco de comandos
+
+estrutura condicional composta, com else
+
+v: executa o bloco de comandos do if
+
+f: executa o bloco de comandos do else
+
+quando houver mais de duas possibilidades, if else if
+
+mostrar um exemplo de varios if else
+
+no ultimo so tem else (default)
+
+mostrar o if else dentro de if else
+
+reparar na identação
+
+switch case, para varios fluxos,
+
+exemplo da semana
+
+expressão condicional ternaria
+
+expressão para definir valor
+
+(condição) ? valor_se_verdadeiro : valor_se_falso
+
+escopos, variavel em escopo, ser desalocado, garantia de ser iniciada
+
+
+// Estrutura repetitiva
+
+Looping
+
+while, enquanto, uma estrutura de controle que repete comandos enquanto uma condição for verdadeira
+
+motivo de usar: quando não se sabe quantas repetições vão ser usadas, existem varias
+
+parece o if
+
+v: executa o bloco e volta no começo do bloco
+
+f: pula o bloco e continua o algoritmo
+
+teste de mesa
+
+for, para, uma estrutura de contro que repete comandos um determinado numero de vezes
+
+motivo de usar: quando se sabe quantas repetição vão ser usadas, um controle de repetições pre determinado
+
+for (inicio; condição; incremento_ou_decremento)
+
+inicio: executa só uma vez
+
+condição:
+
+v: executa e volta
+
+f: para e continua o fluxo do algoritmo
+
+incremento ou decremento: executa toda vez depois de uma repetição
+
+for é ótimo para contagens, melhor que while nesse caso
+
+estrutura de controle do-while, faça-enquanto
+
+que é uma estrutura um pouco utilizada, rara
+
+mas para alguns problemas se encaixa melhor
+
+o comando é executado pelo menos uma vez, porque a condição só é verificada no final
+
+v: volta e repete
+
+f: só continua o fluxo
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

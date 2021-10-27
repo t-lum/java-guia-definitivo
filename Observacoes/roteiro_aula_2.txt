@@ -1,0 +1,330 @@
+* Estrutura Sequencial
+
+	Comentários.
+
+	Saída de dados.
+
+	Expressões aritméticas.
+
+	Variáveis.
+
+	Camel Case.
+
+	Entrada de dados.
+
+	Classe Math.
+
+
+* Estrutura Condicional
+
+	Expressões comparativas.
+
+	Operadores lógicos.
+
+	Expressões lógicas.
+
+	If-else (se e senão).
+
+	Switch-case (escolha e caso).
+
+	Expressão ternária.
+
+	Introdução a escopo.
+
+
+* Estrutura Repetitiva
+
+	Conceito de repetição (Looping).
+
+	While (enquanto).
+
+	For (para).
+
+	Do-while (faça e enquanto).
+
+
+//
+
+1. Projeto hello world e comentarios, de linha e de bloco
+
+
+2. Saida de dados, println e print, mostrar pulo de linha vazio e brincar
+um pouco
+
+
+3. Expressões arimeticas
+
+	entender as duas palavras
+
+	expressão é alguma forma de manifestação
+
+	expressão facial, que nos induz a um sentimento (sorriso a
+felicidade e etc)
+
+	expressão matemática, que é um conjunto de números e simbolos que
+nos retornam um valor
+
+	Aritmetica é o ramo mais antigo e essencial da matematica
+
+	Operações mais basicas como soma, subtração, divisão, multiplicação
+
+	expressão aritmetica seria uma expressão matematica das 4 operações
+
+	saber qual são os operadores
+
+	quinto operador modulo, resto da divisão
+
+	Concatenar
+
+	modulos de 14 % 3 = 2, 19 % 5 = 4
+
+	uso de parenteses
+	
+	fazer grande expressão
+
+
+4. Variaveis
+
+	O que é (dados e memoria, ram e hd)
+
+	8 tipos primitivos
+
+	lógico, inteiro, ponto flutante e caracter
+
+	mostrar no imagens
+
+	explicar binarios, 1 byte possui 8 possibilidades
+
+	declarar variavel, duas formas
+
+	tipo nome = valor inicial;
+
+	tipo nome;
+
+	valor inicial é opcional
+
+	Chamar uma variavel
+
+	Operações com variaveis
+
+	Toda variavel possui nome, tipo, valor e endereço
+
+	junto a variaveis, camel case
+
+5. Camel Case
+
+	Forma de organização de código
+
+	(No Java e em varias linguagens) Variável não pode
+
+		começar com digito, use uma letra ou _ antes
+
+		Não pode ter espaços em branco, use _
+
+		Sem acentou ou til
+
+		Não ser uma palavra reservada da tecnologia Java
+
+		Padrão camel, nome de variavel sempre começa em minuscolo,
+outras palavras da mesma variavle em maiusculo
+
+
+6. Entrada de dados
+
+	Peculiaridade, e tipo não primitivo
+
+	Scanner sc = new Scanner (System.in)
+
+	import java.util.Scanner
+
+	sc.close() no final do app, desalocar scanner
+
+	sc.next(), String e pegar texto
+
+	mostrar a spera por mensagem
+
+	nextInt e nextDouble
+
+	virgula na entrada, ponto na saida
+
+	problema de buffer de leitura, usar next sem ser o de texto
+
+	Enter da uma quebra de linha, essa quebra de linha fica pendente
+
+	Então proximo next line apenas absorve essa quebra de linha
+
+	solução um nextline vazio (sozinho)
+
+
+7. Classe Math
+
+	Biblioteca de funções matematicas
+
+	raiz .sqrt(x)
+
+	potencia .pow(x, y)
+
+	absoluto .abs(x) // valor absoluto, pega o valor sem o negativo se
+for o negativo
+
+	usar double e float para ver o numero de casas decimais
+
+
+//
+// Condicional
+//
+
+
+1. expressão comparativa
+
+	expressão que retorna verdadeiro ou falso, faz comparação
+
+	5 ser maior 10 é falso, exemplo
+
+	> maior
+
+	< menor
+
+	>= maior ou igual
+
+	<= menor ou igual
+
+	== igual
+
+	!= diferente
+
+	Fazer exemplo com cada 1
+
+
+2. expressão lógica
+
+	expressão que retorna verdadeiro ou falso, conjunto de expressões
+comparativas
+
+	Como faz, através de operadores lógicos
+
+	&& (E comercial, outro nome) e
+
+	|| (pipe, barra vertical) ou
+
+	! não ou contrário, colocar tudo em parenteses para facilitar
+
+	fazer na pratica e explicar o porque conjunto de expressoes comparativas
+
+	tabela verdade, pesquisar no google
+
+
+3. If else
+
+	é uma estrutura de controle de codigo
+
+	If else direciona entre duas direções diferentes através de uma
+condição
+
+	Mostrar com expressão
+
+	Mostrar com valores fixos
+
+	Quando houver mais de uma possibilidade, primeiro, segundo, terceiro
+
+	exemplo de varios if else if else
+
+	If else dentro de if else
+
+	exemplo da semana
+
+
+4. Switch
+
+	uma estrutura de controle de codigo
+
+	direciona entre varias direções diferentes
+
+	exemplo da semana
+
+	Quando usar if ou switch
+
+	criação de variaveis dentro do switch ou if
+
+	ainda dentro de switch
+
+
+5. Escopo
+
+	Mostrar variaveis dentro de if ou switch não existindo no escopo
+
+
+//
+//	Repetitiva
+//
+
+	
+1. Conceito de repetição (Looping).
+
+	Vamos começar a trabalhar com laços de repetição, executar a mesma
+coisa ou o mesmo bloco de código várias vezes
+
+
+2. While (enquanto).
+
+	Uma estrutura de controle de código
+
+	Repete um bloco de comandos enquanto uma condição for verdadeira
+
+	Escopo, variavel
+
+
+3. For (para).
+
+	Uma estrutura de controle de código
+
+	Repete um bloco determinado numero de vezes
+
+	Mostrar em pratica
+
+	Quando usar for e quando usar while?
+
+	for para contagem e while para looping sem contagem definida
+
+	Exemplo do while com sim e não
+
+	next().charAt(0);
+
+	Não esquecer s e S
+
+
+4. Do-while (faça e enquanto).
+
+	Comando raro, pouco utilizado
+
+	igual ao while, mas pelo menos executa uma vez
+
+	Porque a condição só é verificada no final
+	
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

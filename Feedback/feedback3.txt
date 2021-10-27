@@ -1,0 +1,19 @@
+"pode me ajudar em ter um melhor profissionalismo em como atuo", justifica o texto
+
+
+Seria legal se os exemplos de código fossem todos de sua autoria
+
+
+alguns erros de português
+
+
+Sinceramente não gostei desse fluxo aqui, não me ajudou quase nada a entender, mais pelo
+contrário, me confundiu um pouco. Gostei bastante da imagem antecessora, que mostra uma
+pirâmide.
+
+(exemplos do processo de um compilador)
+
+Deixaria só a imagem que vem depois dessa, de compilação, ficou mais claro pra mim.
+
+
+bytecode meio ruim, jit foi bem rápido
