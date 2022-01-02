@@ -1,0 +1,227 @@
+//
+//	//	Teoria
+//
+
+* Algoritmo
+
+* Binário
+
+* Linguagem de programação
+
+* Compilador vs Interpretador
+
+* IDE vs Editor de texto
+
+* Orientação a objetos
+
+* Memória: Heap Stack
+
+* Integração
+
+* JDK vs JRE
+
+* JVM e bytecode
+
+* JIT
+
+* Eclipse e Visual Studio
+
+* Objeto vs Primitivo
+
+* Conversão de dados, estrutura de dados
+
+* 
+
+
+
+//
+//	//	Prática
+//
+
+// Tópicos básicos
+
+* Estrutura Sequencial
+
+	* Comentários.
+
+	* Saída de dados.
+
+	* Expressões aritméticas.
+
+	* Variáveis, os 8 tipos primitivos.
+
+	* Camel Case.
+
+	* Entrada de dados.
+
+	* Classe Math.
+
+* Estrutura Condicional
+
+	* Expressões comparativas.
+
+	* Operadores lógicos.
+
+	* Expressões lógicas.
+
+	* If-else (se e senão).
+
+	* Switch-case (escolha e caso). 
+
+	* Introdução a escopo.
+
+
+* Estrutura Repetitiva
+
+	* Conceito de repetição (Looping).
+
+	* While (enquanto).
+
+	* For (para).
+
+	* Do-while (faça e enquanto).
+
+
+//Tópicos intermediários
+
+* Git e Github
+
+	* Setup
+
+	* Essenciais
+
+	* .gitignore
+
+	* Projeto existente
+
+* Utilidade
+
+	* Operadores bitwise
+
+	* Funções/metódos estáticos
+
+	* String e funcionalidades
+
+	* Expressão condicional ternária
+
+	* Casting e conversão
+
+	* Constante
+
+	* Cultura
+
+* Orientação a objetos
+
+	* Classe e objeto
+
+		Propriedades
+
+		Metódos
+
+
+	* Teoria básica
+
+		* Paradigmas
+
+		* Quatro pilares POO / OOP:
+
+			* Abstração
+
+			* Encapsulamento
+
+			* Herança
+
+			* Polimorfismo
+
+	* Heap Stack
+
+	* Estático vs Instância
+
+	* Propriedades e metódos estáticos
+
+	* Construtores e this
+
+	* Sobrecarga
+
+	* Encapsulamento: Getters e setters
+
+	* Encapsulamento: Modificadores de acesso
+
+	* Herança: Upcasting e Downcasting
+
+	* Herança: sobreposição, override e super
+
+	* Polimorfismo: metódos e propriedades modificadas
+
+* Coleções e genericos
+
+	* Vetor e matriz
+
+	* Foreach
+
+	* Listas
+
+	* Enumeração
+
+
+
+// Tópicos avançados
+
+* Referencia vs Valor, objeto vs primitivo
+
+* Garbage Collector
+
+* Boxing, Unboxing, Wrapper
+
+* Date e Calendar
+
+* Design Pattern
+
+* Classes e métodos finais
+
+* Classes e métodos abstratos
+
+* Tratamento de exceção, try-catch-finally
+
+* Exceções personalizadas
+
+* Manipulação de arquivos
+
+* Programação funcional lambda
+
+* Acesso a banco de dados (Persistência de dados)
+
+	* Rest API
+
+	* JDBC
+
+* JavaFX, interface gráfica
+
+* Hibernate
+
+* Json
+
+* Inferencia
+
+* Import e bibliotecas
+
+* Springboot
+
+
+
+// Projetos:
+
+* Xadrez, apenas em prompt
+
+* Interface gráfica com banco de dados
+
+* Spring Boot com JPA / Hibernate
+
+* API Restful com Spring Boot e banco de dados
+
+
+
+
+
+
+

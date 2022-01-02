@@ -1,0 +1,64 @@
+0. Um pouco de conversa e icone do java
+
+	↪ Ritmo tranquilo e etc, 
+
+
+1. Como vamos aprender?
+
+	↪ Começo vai ser muito teórico
+
+
+	↪ Solução: dar um pouco de teoria superficial e partir para pratica, depois dessa
+pequena pratica voltamos mais fundo a teoria
+
+		↪ Motivo 1: o primeiro contato vai dar uma acordada e um pequeno animo a
+programar
+
+		↪ Motivo 2: vai despertar o interesse que vai aumentar a atenção, não se
+sentir deslocado ou excluido
+
+
+		↪ Obs: evitar ao maximo termos tecnicos até que eles sejam devidamente
+apresentados
+
+
+	↪ As informações vão ser bem basicas, desde o que é cada coisa para ter uma visão
+bem ampla do que estamos fazendo, saber de verdade o que ta fazendo, ter noção
+
+		↪ Dominio
+
+
+	↪ A gente vai começar pelo mais dificil e depois o mais facil, fazer os processos
+manualmente e depois ver os meios mais faceis
+
+		↪ Dominio e noção de como as coisas eram feitas antes
+
+
+2. O que é programação?
+
+	↪ O que é uma linguagem de programação
+
+		↪ Dar exemplos de algumas e suas vantagens
+
+
+	↪ O que é um algoritmo
+
+
+	↪ Explicar um Software e um site
+
+		↪ Algoritmo principal e um pouco de threads
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
