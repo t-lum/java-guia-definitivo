@@ -1,0 +1,17 @@
+* Estrutura sequencial (ja passado)
+
+* Estrutura condicional (ja passado)
+
+* Estrutura repetitiva (ja passado) (falta lista)
+
+* Tópicos de utilidade do Java
+
+* Orientação a objetos: os quatro pilares
+
+* Coleções
+
+* Controle de versionamento
+
+* Rest API
+
+* Jmeter
