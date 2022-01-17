@@ -1,0 +1,20 @@
+"No caso do binário o primeiro valor da contagem é o zero"
+
+pode estar muito massivo, se quem tiver aprendendo reclamar trocar simplificar
+
+exemplos confusos
+
+"255 é a junção dos valores 2, 5 e 5 juntos"
+
+apagar se reclamarem
+
+preguiça de ler, lento para ler por ser massivo
+
+algumas informações repetidas colocar no rodapé no final do tópico
+
+precisa estrategia previa antes de escrever
+
+
+// elogios
+
+Alguns pontos da pra entender
