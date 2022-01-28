@@ -1,0 +1,68 @@
+// Tópicos avançados
+
+* Design Pattern
+
+* Programação funcional lambda
+
+* Acesso a banco de dados (Persistência de dados)
+
+	* Rest API
+
+	* JDBC
+
+* JavaFX, interface gráfica
+
+* Hibernate
+
+* Json
+
+* Inferencia
+
+* Import e bibliotecas
+
+* Springboot
+
+
+
+// Projetos:
+
+* Xadrez, apenas em prompt
+
+* Interface gráfica com banco de dados
+
+* Spring Boot com JPA / Hibernate
+
+* API Restful com Spring Boot e banco de dados
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

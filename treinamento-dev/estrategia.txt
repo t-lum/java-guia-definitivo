@@ -1,0 +1,241 @@
+//
+//	Resumo
+//
+
+* Estrutura sequencial (ja passado)
+
+* Estrutura condicional (ja passado)
+
+* Estrutura repetitiva (ja passado) (falta lista)
+
+* Tópicos de utilidade do Java
+
+* Orientação a objetos: os quatro pilares
+
+* Coleções
+
+* Controle de versionamento
+
+* Rest API
+
+* Jmeter
+
+
+
+//
+//	Resumo
+//
+
+* Tópicos de utilidade do Java
+
+	* Criando métodos estáticos
+
+	* String e suas funcionalidades
+
+	* Conversão (Casting)
+
+	* Constantes
+
+	* Tratamento de exceções (try-catch-finally)
+
+
+
+* Orientação a objetos: os quatro pilares
+
+	* Abstração: classe e objeto
+
+	* Propriedades e métodos (instância)
+
+	* Instância vs. Estático
+
+	* Método principal (main)
+
+	* Sobrecarga
+
+	* Construtor e this (isso)
+
+	* Os quatro pilares: abstração, encapsulamento, herança
+	  e polimorfismo
+
+
+* Orientação a objetos: encapsulamento
+
+	* Modificadores de acesso
+
+	* Getters e Setters
+
+
+* Orientação a objetos: herança
+
+	* Herdando classes
+
+	* Upcasting e Downcasting
+
+
+* Orientação a objetos: polimorfismo
+
+	* Sobreposição e super
+
+	* Modificando métodos herdados
+
+
+* Orientação a objetos: na memória
+
+	* Heap e stack
+
+	* Classe Object
+
+	* Garbage collector (coleta de lixo)
+
+	* Boxing e unboxing
+
+	* Wrappers
+
+
+* Coleções
+
+	* Vetor e matriz
+	
+	* Foreach (para cada)
+
+	* Listas
+
+	* Enumeração
+
+
+
+* Controle de versionamento
+
+	* Git
+
+	* Setup
+
+	* Github e Bitbucket
+
+	* Git: criar projetos e comandos
+
+
+
+* Rest API
+
+	* JSON e HTML (um pouco de front)
+
+	* Protocolo HTTP
+
+	* Requisições HTTP GET, POST, PUT, DELETE
+
+	* Testar APIS e Web em geral
+
+
+* Regex
+
+	* 
+
+	* 
+
+	* 
+
+
+* Jmeter
+
+	* Basico
+
+		* Setup
+
+		* Projetinho básico, para entender
+
+		* Plano de teste e Threads
+
+		* Samplers
+
+		* Listeners
+
+		* Variavéis
+
+		* Projetos e exemplos
+
+
+	* Intermediario
+
+		* Timer
+
+		* Controllers
+
+		* Config elements relevantes
+
+			* Request Defaults
+
+			* Header Manager
+
+			* Defined Variables
+
+		* Escopo
+
+		* Pre Processors
+
+			* JSR223 PreProcessor
+
+		* Post Processors
+
+			* JSR223 PostProcessor
+
+			* Regular Expression Extractor (RegEx)
+
+			* JSON Extractor
+
+		* Fluxo do Jmeter
+
+		* Assertions
+
+			* Response Assertion
+
+			* JSON Assertion
+
+
+	* Avançado
+
+		* CSV
+
+		* Mais Listeners
+
+		* Gerar Dashboard
+
+		* Recorder (e proxy)
+
+		* Plugins
+
+			* Ultimate Thread
+
+		* Executar por prompt
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

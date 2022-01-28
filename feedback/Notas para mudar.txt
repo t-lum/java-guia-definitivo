@@ -1,0 +1,10 @@
+Explicar melhor sistema binario
+
+
+o fluxo de imagens de explicação não ajudou
+
+
+Bytecode ta meio meh, jit foi rapido
+
+
+Colocar no inicio uma curiosidade ou exemplo de uso para a linguagem
